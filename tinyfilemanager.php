@@ -8,6 +8,7 @@ $CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":
  * https://tinyfilemanager.github.io
  */
 
+
 //TFM version
 define('VERSION', '2.4.6');
 
